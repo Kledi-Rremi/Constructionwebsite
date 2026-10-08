@@ -32,87 +32,65 @@ Services and project changes are reflected on the public website. The enquiry wo
 
 ## Screenshots
 
-The screenshots below show the running local project with existing content. Expand each gallery to explore the website and its management screens.
+All ten screenshots show the running local project with existing content: the homepage preview above, followed by the website sections and admin screens below.
 
 ### Website tour
 
-<details>
-<summary><strong>About the company and client testimonials</strong></summary>
+#### About the company and client testimonials
 
 A company introduction with an embedded video, project call to action, and testimonial cards.
 
 ![Brik about section with a video, company information, and client testimonials](docs/screenshots/about-and-testimonials.png)
 
-</details>
-
-<details>
-<summary><strong>Construction services</strong></summary>
+#### Construction services
 
 Service cards combine icons, titles, and descriptions with a quote request call to action.
 
 ![Construction services including housing, maintenance, ceramics, and water installation](docs/screenshots/services.png)
 
-</details>
-
-<details>
-<summary><strong>Completed projects</strong></summary>
+#### Completed projects
 
 An image-led project carousel presents residential, commercial, renovation, and roofing work.
 
 ![Completed projects carousel with photographs, project names, dates, and descriptions](docs/screenshots/projects.png)
 
-</details>
-
-<details>
-<summary><strong>Contact form and footer</strong></summary>
+#### Contact form and footer
 
 Visitors can find the company's contact details and submit an enquiry with their name, email, subject, and message.
 
 ![Brik contact section with address, phone, email, enquiry form, and site footer](docs/screenshots/contact.png)
 
-</details>
+### Admin panel tour
 
-### Admin dashboard
+#### Dashboard
 
 Summary cards and charts provide a dashboard presentation. The displayed totals and chart values are demo data, rather than live analytics.
 
 ![Brik admin dashboard with summary cards, website views chart, and monthly leads chart](docs/screenshots/admin-dashboard.png)
 
-<details>
-<summary><strong>Admin login and validation feedback</strong></summary>
+#### Admin login and validation feedback
 
 The login screen includes username and password fields. This screenshot shows the feedback displayed after an unsuccessful login attempt.
 
 ![Admin login form displaying invalid-credentials feedback](docs/screenshots/admin-login.png)
 
-</details>
-
-<details>
-<summary><strong>Customer leads</strong></summary>
+#### Customer leads
 
 The Leads screen lists submitted messages and their response status.
 
 ![Admin Leads screen showing an enquiry and its answered status](docs/screenshots/admin-leads.png)
 
-</details>
-
-<details>
-<summary><strong>Service management</strong></summary>
+#### Service management
 
 Administrators can maintain service content, choose icons, set ordering, and control which entries are visible.
 
 ![Admin service management table with edit and delete controls and an add-service form](docs/screenshots/admin-services.png)
 
-</details>
-
-<details>
-<summary><strong>Project management</strong></summary>
+#### Project management
 
 The project management screen displays project images and details alongside editing controls and a form for adding new work.
 
 ![Admin project management screen with project thumbnails, descriptions, dates, and an add-project form](docs/screenshots/admin-projects.png)
-
-</details>
 
 ## Tech stack
 
